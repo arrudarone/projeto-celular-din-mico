@@ -1,0 +1,16 @@
+@charset "utf-08";
+
+    body{
+    font-family: Arial, Helvetica, sans-serif; 
+    
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-attachment: fixed;
+    
+    }div#celular{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 60px;
+    }
