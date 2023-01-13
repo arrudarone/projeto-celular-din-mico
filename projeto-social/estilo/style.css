@@ -1,12 +1,14 @@
 @charset "utf-8";
 
     *{
+        /*setar com margem zerada e padding zerado o projeto*/
         margin: 0px;
         padding: 0px;
         font-family: Arial, Helvetica, sans-serif;
     }
 
     body{
+    /*usado o ../ antes da do caminho para voltar uma pasta*/
     background-image: url(../imagens/fundo-madeira.jpg);
     height: 100vh;
     width: 100vw;
