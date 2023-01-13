@@ -17,6 +17,7 @@
     background-attachment: fixed;
     
     }#celular{
+        /*MANEIRA DE ALINHAR UMA DIV, FRAME, ITEM*/
         display: flex;
         justify-content: center;
         align-items: center;
