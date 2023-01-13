@@ -51,5 +51,5 @@
         border: 2px solid rgba(255, 255, 255, 0.651) ; /*borda */
         transform: translate(-3px, -3px); /*movimentação do botão*/
         box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.589); /*movimentação da sombra*/
-        transition: transform 0.3s; /*animação */
+        transition: transform 0.3s, border 0.2s; /*animação */
     }
