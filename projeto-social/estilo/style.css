@@ -47,7 +47,7 @@
         box-sizing: border-box; /*propriedade para a bordar fazer parte do objeto*/
     }section#redes{
         text-align: right;
-    }img:hover{
+    }img.redes:hover{
         border: 2px solid rgba(255, 255, 255, 0.651) ; /*borda */
         transform: translate(-3px, -3px); /*movimentação do botão*/
         box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.589); /*movimentação da sombra*/
